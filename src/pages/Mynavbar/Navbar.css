@@ -1,0 +1,49 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.Link{
+    text-decoration: none;
+    padding: 0px 20px;
+    margin-left: 8px;
+    margin-right: 8px;
+    height: 60px;
+    line-height:60px;
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    
+    
+}
+.Link1{
+    color: transparent;
+    font-size: 1px;
+    
+}
+.Link1:hover{
+    color: transparent;
+}
+.Link:hover{
+   
+   
+   
+    color: rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 0.296) ;
+   border-bottom-left-radius:5px ;
+   border-bottom-right-radius:5px ;
+    transition: 0.2s;
+   
+
+}
+.logo{
+    height: 50px;
+    width: 140px;
+}
+.navbar{
+    
+    background:linear-gradient(rgb(20, 20, 26),transparent);
+    z-index: 1;
+    margin: 0%;
+    
+}

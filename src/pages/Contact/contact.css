@@ -1,0 +1,66 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+html{
+
+    overflow-x:hidden;
+   
+}
+.in{
+    border-radius: 10%;
+} 
+.con{
+  
+   height: 100vh;
+   width: auto;
+}
+
+.con1{
+   background-color: rgb(211, 209, 209);
+}
+.email{
+   margin-top: 200px;
+   text-align: center;
+   
+   
+}
+.emaili{
+   width: 250px;
+   text-align: center;
+border-radius: 20px;
+   margin-top: 40px;
+   height: 50px;
+   background-color: rgb(230, 227, 227);
+   color: black;
+}
+.number{
+   width: 250px;
+   text-align: center;
+border-radius: 20px;
+   margin-top: 40px;
+   height: 50px;
+   background-color: rgb(226, 225, 225);
+   color: black;
+}
+.headmeet{
+   text-align: start !important;
+   padding-left: 48px;
+}
+.map{
+   margin-top: 20px;
+   
+   border: #494949;
+   border-radius: 20px;
+   height: 300px;
+   width: 300px;
+  
+}
+.fai{
+   height: 20px;
+   width: 18px;
+   
+}
+.meettext{
+   color: rgb(130, 130, 130);
+}

@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.logged-c{
+    background-color: rgb(0, 0, 0);
+    
+}
+
+.address{
+    height: 80px;
+
+}
+.btn-pri{
+    background-color: rgb(22, 56, 119);
+
+    
+}
+
+.borderr{
+    border: 3px solid rgb(22, 56, 119);
+}

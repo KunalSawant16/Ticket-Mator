@@ -1,0 +1,17 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.cardd{
+    margin-top: 100px;
+    height: 300px !important;
+    width: 350px !important;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px !important;
+}
+.card-bg{
+    background-color: rgb(164, 138, 138) !important;
+    border-radius: 20px !important;
+}
